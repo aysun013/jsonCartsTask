@@ -1,0 +1,9 @@
+{
+    "workers": [
+      { "id": "1", "name": "Anar", "age": "age: 25", "salary":"salary:1500" ,"image":"https://cdn-res.keymedia.com/cms/images/ca/126/0405_638012718654874502.jpg"},
+      { "id": "2", "name": "Amir", "age": "age: 27", "salary":"salary:1700", "image": "https://img.freepik.com/premium-photo/close-up-portrait-confident-indian-financial-expert-office-worker-sitting-table-formal-suit_769609-327.jpg"},
+      { "id": "3", "name": "Arif", "age": "age: 29", "salary":"salary:2000","image": "https://t4.ftcdn.net/jpg/04/98/99/45/360_F_498994507_BzNm5bADa9GbvxvlgRLFwrc4FetmBmqi.jpg"},
+      { "id": "4", "name": "Akif", "age": "age: 30", "salary":"salary:2100","image":"https://thumbs.dreamstime.com/b/african-office-worker-portrait-handsome-male-talking-phone-44341693.jpg"}
+    ]
+    
+  }
